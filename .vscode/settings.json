@@ -1,0 +1,12 @@
+{
+    "markdown.marp.enableHtml": true,
+    "markdown.marp.themes": [
+    "./themes/ShanghaiTech_Tutorial.scss",
+    "./themes/am_template.scss",
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#1E2B56",
+        "titleBar.activeBackground": "#293D78",
+        "titleBar.activeForeground": "#FCFCFE"
+    }
+}
