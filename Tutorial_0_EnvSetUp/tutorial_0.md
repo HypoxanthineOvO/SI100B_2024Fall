@@ -5,8 +5,8 @@ math: mathjax
 size: 16:9
 ---
 <!-- _class: cover_e -->
-<!-- _header: ![](./assets/ShanghaiTech_Logo_RGBA.png) -->
-<!-- _footer: ![](./assets/ShanghaiTech_Name_RGBA.png) -->
+<!-- _header: ![](../assets/ShanghaiTech_Logo_RGBA.png) -->
+<!-- _footer: ![](../assets/ShanghaiTech_Name_RGBA.png) -->
 <!-- _paginate: "" -->
 # SI100B EE Part
 ###### Tutorial 1
